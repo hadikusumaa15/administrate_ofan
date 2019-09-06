@@ -23,6 +23,7 @@ Things you may want to cover:
 
 * rails s -p 7777
 
-naikin "update_from_mac" mac_branch
-naikin "update_sort_by_status" mac_branch
+* naikin "update_from_mac" mac_branch
+
+* naikin "update_sort_by_status" mac_branch
 
